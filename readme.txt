@@ -1,7 +1,6 @@
-# HTTP(S) Traffic Generator (trackthis.link on steroids)
+# HTTP(S) Traffic Generator
 # This script includes a large list of domains borrowed from trackthis.link.
 #
-# Written by Jaime Escalera (jescalera@sonicwall.com)
 #
 # The purpose of the script is to generate a high volume of web traffic.
 # It can be used by network engineers for stress testing, bandwidth testing, etc.
